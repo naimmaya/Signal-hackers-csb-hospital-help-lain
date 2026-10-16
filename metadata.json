@@ -1,0 +1,6 @@
+{
+  "name": "Jamalpur Hospital & Emergency Health Network",
+  "description": "জামালপুর জেলার সকল সরকারি-বেসরকারি হাসপাতাল, অবস্থান, জরুরি অ্যাম্বুলেন্স ও রক্তদাতা নেটওয়ার্কের পূর্ণাঙ্গ তথ্য সেবা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
